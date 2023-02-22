@@ -7,4 +7,4 @@ A course project implementing seam carving with dynamic programming
    
    
  - **Presentation: Seam carving.pdf**
- - Example images: images I used for my presentation are in the folder.
+ - **Example images:** images I used for my presentation are in the folder.
