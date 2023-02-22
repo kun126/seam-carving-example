@@ -1,2 +1,2 @@
 # seam-carving-example
-A python notebook implementing seam carving with dynamic programming
+A course project implementing seam carving with dynamic programming
